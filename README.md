@@ -108,7 +108,7 @@ endmodule
 
 ### TIMING DIGRAMS FOR COUNTER  
 # UP COUNTER:
-![counteras](https://github.com/AshwinAkash24/Exp-7-Synchornous-counters-/assets/144979248/c243da7e-5510-4d9d-8529-10a838f1d86c)
+![counter](https://github.com/AshwinAkash24/Exp-7-Synchornous-counters-/assets/144979248/35e86bf8-065f-4b73-b7f5-a319d1ce8af4)
 
 # DOWN COUNTER:
 ![counteras(1)](https://github.com/AshwinAkash24/Exp-7-Synchornous-counters-/assets/144979248/8ab81807-0053-469b-998a-cd14369a303f)
