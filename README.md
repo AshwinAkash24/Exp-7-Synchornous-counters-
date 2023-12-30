@@ -94,19 +94,25 @@ endmodule
 ```
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 # UP COUNTER:
-![image](https://github.com/AshwinAkash24/Exp-7-Synchornous-counters-/assets/144979248/74c99802-b9ce-4091-b677-b6dba7a12353)
+![image](https://github.com/AshwinAkash24/Exp-7-Synchornous-counters-/assets/144979248/100c0c6b-dd50-49dc-a74b-1a0e02732b23)
+
 # DOWN COUNTER:
-![image](https://github.com/AshwinAkash24/Exp-7-Synchornous-counters-/assets/144979248/709d63c2-995f-4935-b699-220210c0f490)
+![image](https://github.com/AshwinAkash24/Exp-7-Synchornous-counters-/assets/144979248/2f3a9879-fa8c-4c70-9871-2882516dddd5)
+
 ### TIMING DIGRAMS FOR COUNTER  
 # UP COUNTER:
-![image](https://github.com/AshwinAkash24/Exp-7-Synchornous-counters-/assets/144979248/5705ebca-78a9-419d-ab64-55a1238daec1)
+![image](https://github.com/AshwinAkash24/Exp-7-Synchornous-counters-/assets/144979248/579b2872-69f5-46d4-adf3-cdb9fab42a74)
+
 # DOWN COUNTER:
-![image](https://github.com/AshwinAkash24/Exp-7-Synchornous-counters-/assets/144979248/848d8ce4-a55f-4bd3-b6e8-7b4a2628b6a5)
+![image](https://github.com/AshwinAkash24/Exp-7-Synchornous-counters-/assets/144979248/71694260-34c0-40da-9842-061cbe574960)
+
 ### TRUTH TABLE 
 # UP COUNTER:
-![image](https://github.com/AshwinAkash24/Exp-7-Synchornous-counters-/assets/144979248/09fdb350-d0b7-4b00-9fa2-27a3bf7d4577)
+![image](https://github.com/AshwinAkash24/Exp-7-Synchornous-counters-/assets/144979248/fb4cc3c9-7d33-40e3-bfca-bb0e0df66589)
+
 # DOWN COUNTER:
-![image](https://github.com/AshwinAkash24/Exp-7-Synchornous-counters-/assets/144979248/4363210d-9b57-4631-9a9c-4095b1e76961)
+![image](https://github.com/AshwinAkash24/Exp-7-Synchornous-counters-/assets/144979248/c3c05bfc-431c-4a10-9fc0-c093a289bf30)
+
 ### RESULTS:
 Thus synchornous counters up counter and down counter circuit are studied and the truth table for different
 logic gates are verified.
