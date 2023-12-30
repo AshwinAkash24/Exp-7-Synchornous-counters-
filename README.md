@@ -101,10 +101,10 @@ endmodule
 
 ### TRUTH TABLE 
 # UP COUNTER:
-![Screenshot 2023-12-30 124126](https://github.com/AshwinAkash24/Exp-7-Synchornous-counters-/assets/144979248/6caa4f49-c4e7-403e-82c5-ee9965cceedb)
+![up](https://github.com/AshwinAkash24/Exp-7-Synchornous-counters-/assets/144979248/1f1b9b5e-f9e7-4b44-846c-e2e2882c2758)
 
 # DOWN COUNTER:
-![counteras(3)](https://github.com/AshwinAkash24/Exp-7-Synchornous-counters-/assets/144979248/4e388847-9fc1-4037-bd35-6274ad607957)
+![down](https://github.com/AshwinAkash24/Exp-7-Synchornous-counters-/assets/144979248/14915537-61b5-4e2f-8705-51b596d7c99b)
 
 ### TIMING DIGRAMS FOR COUNTER  
 # UP COUNTER:
