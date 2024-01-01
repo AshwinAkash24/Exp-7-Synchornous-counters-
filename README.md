@@ -35,7 +35,7 @@ The Q outputs of each flip-flop will serve as the respective binary bits of the 
  
  
 
-Four-bit “Up” Counter
+three-bit “Up” Counter
 ![dcount1](https://github.com/AshwinAkash24/Exp-7-Synchornous-counters-/assets/144979248/2d40c9c7-0838-413a-a5e7-8a43b105c118)
 
 
