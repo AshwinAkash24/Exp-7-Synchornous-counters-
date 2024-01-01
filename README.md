@@ -48,7 +48,7 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 ![dcount2](https://github.com/AshwinAkash24/Exp-7-Synchornous-counters-/assets/144979248/ba388b3e-cb2f-4301-a693-33674e7ce7a2)
 
 
-4-bit Count Down Counter
+3-bit Count Down Counter
 ### Procedure:
 Step 1:Create a new project in Quartus2 software .
 <br>
