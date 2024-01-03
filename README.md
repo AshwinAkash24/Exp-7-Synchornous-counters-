@@ -3,13 +3,13 @@ Name: M.ASHWIN AKASH
 Reference Number: 23009906
 ```
 # Exp-6 -Synchornous counters up counter and down counter 
-### AIM: To implement 4 bit up and down counters and validate  functionality.
+### AIM: To implement 3 bit up and down counters and validate  functionality.
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
 ### THEORY 
 
 ## UP COUNTER 
-The counter is a digital sequential circuit and here it is a 4 bit counter, which simply means it can count from 0 to 15 and vice versa based upon the direction of counting (up/down). 
+The counter is a digital sequential circuit and here it is a 3 bit counter, which simply means it can count from 0 to 15 and vice versa based upon the direction of counting (up/down). 
 
 The counter (“count“) value will be evaluated at every positive (rising) edge of the clock (“clk“) cycle.
 The Counter will be set to Zero when “reset” input is at logic high.
@@ -36,7 +36,7 @@ The Q outputs of each flip-flop will serve as the respective binary bits of the 
  
 
 three-bit “Up” Counter
-![dcount1](https://github.com/AshwinAkash24/Exp-7-Synchornous-counters-/assets/144979248/2d40c9c7-0838-413a-a5e7-8a43b105c118)
+![up](https://github.com/AshwinAkash24/Exp-7-Synchornous-counters-/assets/144979248/9c1ea9e8-9979-40ae-941f-51f3f2b06052)
 
 
 ## DOWN COUNTER 
@@ -45,7 +45,7 @@ As well as counting “up” from zero and increasing or incrementing to some pr
 
 This type of counter is normally referred to as a Down Counter, (CTD). In a binary or BCD down counter, the count decreases by one for each external clock pulse from some preset value. Special dual purpose IC’s such as the TTL 74LS193 or CMOS CD4510 are 4-bit binary Up or Down counters which have an additional input pin to select either the up or down count mode.
 
-![dcount2](https://github.com/AshwinAkash24/Exp-7-Synchornous-counters-/assets/144979248/ba388b3e-cb2f-4301-a693-33674e7ce7a2)
+![down1](https://github.com/AshwinAkash24/Exp-7-Synchornous-counters-/assets/144979248/c122443b-5c03-43af-a048-e37251ca078c)
 
 
 3-bit Count Down Counter
